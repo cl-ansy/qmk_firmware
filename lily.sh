@@ -1,1 +1,0 @@
-make splitkb/aurora/lily58:clansy
